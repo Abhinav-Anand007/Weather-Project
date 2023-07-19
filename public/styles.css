@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://us.123rf.com/450wm/hdesert/hdesert1707/hdesert170700004/81887824-blue-and-green-abstract-glass-texture-background-or-pattern-creative-design-template-with-copyspace.jpg?ver=6);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.full{
+    border-radius: 1rem;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 1px solid white;
+}
+
+.cityFull{
+    display:block;
+    margin-bottom: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.city{
+    margin-right:0.5rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.inputCity{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 1rem;
+    padding:0.2rem;
+    font-weight: 500;
+    
+}
+
+.submitBtn{
+    display:block;
+    margin:auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.weatherDesc{
+  
+    display:block;
+    margin-bottom: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;  
+}
+
+.weatherCond{
+    
+    display:block;
+    margin-bottom: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.weatherImg{
+    border:2px solid rgba(255, 255, 255, 0.5);
+    border-radius: 100rem;
+    display:block; 
+    margin:auto;
+}
